@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{81F365CA-EC39-4390-B8BD-C1C9CB079808}|Unit Tests">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinwartsSchoolOfMagic\SpellBook.cs">
+    <Files>
+      <File FileName="SwinwartsSchoolOfMagic\Program.cs" Line="24" Column="20" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellKind.cs" Line="9" Column="1" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellTest.cs" Line="11" Column="1" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellBook.cs" Line="33" Column="3" />
+      <File FileName="SwinwartsSchoolOfMagic\Spell.cs" Line="1" Column="1" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellBookTests.cs" Line="13" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinwartsSchoolOfMagic" expanded="True" selected="True">
+            <Node name="SwinwartsSchoolOfMagic" expanded="True">
+              <Node name="SwinwartsSchoolOfMagic" expanded="True">
+                <Node name="SpellBookTests" expanded="True" />
+                <Node name="SpellTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinwartsSchoolOfMagic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

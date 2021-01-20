@@ -1,0 +1,14 @@
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\nunit.framework.dll
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\nunit.framework.xml
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\nunit.framework.dll
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\nunit.framework.xml
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\cong\Downloads\Solution\Lecture Demo 2\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb

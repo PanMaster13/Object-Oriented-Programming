@@ -1,0 +1,27 @@
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Kok\Desktop\OOP WeeklyTask\Week 1\Task 3\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\mscorlib.dll
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normidna.nlp
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfc.nlp
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfd.nlp
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Admin\Dropbox\Teachings\18S2 - Sept\COS20007\Lecture\Sample Code\Week 1\Solution\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\SwinwartsSchoolOfMagic.pdb
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\mscorlib.dll
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normidna.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfc.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfd.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfkc.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\bin\Debug\normnfkd.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.csprojResolveAssemblyReference.cache
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.exe
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\SwinwartsSchoolOfMagic\SwinwartsSchoolOfMagic\obj\x86\Debug\SwinwartsSchoolOfMagic.pdb

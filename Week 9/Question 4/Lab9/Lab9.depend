@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1541494028 source:c:\users\cong\desktop\lab9\src\person.cpp
+	"Person.h"
+
+1541494008 c:\users\cong\desktop\lab9\include\person.h
+	<iostream>
+	<string>
+
+1541494125 source:c:\users\cong\desktop\lab9\main.cpp
+	<iostream>
+	"person.h"
+	"Course.h"
+	"Lecturer.h"
+
+1541494103 c:\users\cong\desktop\lab9\include\course.h
+	<string>
+	<iostream>
+
+1541494076 c:\users\cong\desktop\lab9\include\lecturer.h
+	<string>
+	<iostream>
+	"Course.h"
+	"Person.h"
+
+1541494115 source:c:\users\cong\desktop\lab9\src\course.cpp
+	"Course.h"
+
+1541494126 source:c:\users\cong\downloads\lab9\main.cpp
+	<iostream>
+	"person.h"
+	"Course.h"
+	"Lecturer.h"
+
+1541646126 c:\users\cong\downloads\lab9\include\person.h
+	<iostream>
+	<string>
+
+1541494104 c:\users\cong\downloads\lab9\include\course.h
+	<string>
+	<iostream>
+
+1541494078 c:\users\cong\downloads\lab9\include\lecturer.h
+	<string>
+	<iostream>
+	"Course.h"
+	"Person.h"
+
+1541494116 source:c:\users\cong\downloads\lab9\src\course.cpp
+	"Course.h"
+
+1541497698 source:c:\users\cong\downloads\lab9\src\lecturer.cpp
+	"Lecturer.h"
+
+1541646123 source:c:\users\cong\downloads\lab9\src\person.cpp
+	"Person.h"
+

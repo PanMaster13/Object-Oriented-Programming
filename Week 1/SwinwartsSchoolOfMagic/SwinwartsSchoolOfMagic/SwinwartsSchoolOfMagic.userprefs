@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{81F365CA-EC39-4390-B8BD-C1C9CB079808}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="4" Column="2" />
+      <File FileName="Properties\Spell.cs" Line="28" Column="22" />
+      <File FileName="SpellKind.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinwartsSchoolOfMagic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

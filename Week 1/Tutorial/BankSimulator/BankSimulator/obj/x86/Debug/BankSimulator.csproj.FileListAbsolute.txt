@@ -1,0 +1,22 @@
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\BankSimulator.exe
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\BankSimulator.pdb
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\mscorlib.dll
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\normidna.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\normnfc.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\normnfd.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\normnfkc.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\bin\Debug\normnfkd.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\obj\x86\Debug\BankSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\obj\x86\Debug\BankSimulator.exe
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\BankSimulator\BankSimulator\obj\x86\Debug\BankSimulator.pdb
+G:\BankSimulator\BankSimulator\obj\x86\Debug\BankSimulator.csprojResolveAssemblyReference.cache
+G:\BankSimulator\BankSimulator\obj\x86\Debug\BankSimulator.exe
+G:\BankSimulator\BankSimulator\obj\x86\Debug\BankSimulator.pdb
+G:\BankSimulator\BankSimulator\bin\Debug\BankSimulator.exe
+G:\BankSimulator\BankSimulator\bin\Debug\BankSimulator.pdb
+G:\BankSimulator\BankSimulator\bin\Debug\mscorlib.dll
+G:\BankSimulator\BankSimulator\bin\Debug\normidna.nlp
+G:\BankSimulator\BankSimulator\bin\Debug\normnfc.nlp
+G:\BankSimulator\BankSimulator\bin\Debug\normnfd.nlp
+G:\BankSimulator\BankSimulator\bin\Debug\normnfkc.nlp
+G:\BankSimulator\BankSimulator\bin\Debug\normnfkd.nlp

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{81F365CA-EC39-4390-B8BD-C1C9CB079808}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinwartsSchoolOfMagic\SpellBookTests.cs">
+    <Files>
+      <File FileName="SwinwartsSchoolOfMagic\Spell.cs" Line="12" Column="16" />
+      <File FileName="SwinwartsSchoolOfMagic\Heal.cs" Line="13" Column="39" />
+      <File FileName="SwinwartsSchoolOfMagic\Invisibility.cs" Line="53" Column="23" />
+      <File FileName="SwinwartsSchoolOfMagic\Teleport.cs" Line="52" Column="45" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellBookTests.cs" Line="28" Column="6" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellTest.cs" Line="32" Column="38" />
+      <File FileName="SwinwartsSchoolOfMagic\Program.cs" Line="34" Column="4" />
+      <File FileName="SwinwartsSchoolOfMagic\SpellBook.cs" Line="17" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinwartsSchoolOfMagic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

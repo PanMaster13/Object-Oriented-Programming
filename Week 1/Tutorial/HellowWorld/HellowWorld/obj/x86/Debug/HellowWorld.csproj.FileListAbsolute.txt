@@ -1,0 +1,22 @@
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\mscorlib.dll
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\normidna.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfc.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfd.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfkc.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfkd.nlp
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\obj\x86\Debug\HellowWorld.csprojResolveAssemblyReference.cache
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\obj\x86\Debug\HellowWorld.exe
+C:\Users\Rmuku\OneDrive\Swinburne Files\Degree\Year 1\Semester 2\Object Oriented Programming\Week 1\Tutorial\HellowWorld\HellowWorld\obj\x86\Debug\HellowWorld.pdb
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\mscorlib.dll
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\normidna.nlp
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfc.nlp
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfd.nlp
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfkc.nlp
+G:\Tutorial\HellowWorld\HellowWorld\bin\Debug\normnfkd.nlp
+G:\Tutorial\HellowWorld\HellowWorld\obj\x86\Debug\HellowWorld.csprojResolveAssemblyReference.cache
+G:\Tutorial\HellowWorld\HellowWorld\obj\x86\Debug\HellowWorld.exe
+G:\Tutorial\HellowWorld\HellowWorld\obj\x86\Debug\HellowWorld.pdb
